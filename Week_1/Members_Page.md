@@ -1,5 +1,5 @@
 # Memebers
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/20241212_173117.jpg?raw=true)
+![alt text](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/20241212_173117.jpg?raw=true)
 ## Nova Solarz
 **Team Lead**: Helps the team work together
 <br>**Github Username:** [solarZoey](https://github.com/solarZoey)
