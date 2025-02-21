@@ -3,7 +3,7 @@
 Team Lead
 
 Github Username: [solarZoey](https://github.com/solarZoey)
-Expectations:
+<br>Expectations:
 
 ## Jawaria Warsame
 Code Lead
