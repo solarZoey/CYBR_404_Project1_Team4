@@ -7,11 +7,13 @@ Super Technologically Elevated Volatile Electrical Network
 [License](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/README.md)
 
 **1. Planning**
+[Week 1 expectations](https://canvas.unk.edu/courses/51421/assignments/672342) via Canvas
    
    - [Decide What We Will Make](https://github.com/solarZoey/CYBR_404_Project1_Team4/issues/7) 
    - [Executive Summary](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/ExecutiveSummary.md)
    - [Define S.T.E.V.E.N in the calculator name - S.T.E.V.E.N - Error 404 - The Calculator](https://github.com/solarZoey/CYBR_404_Project1_Team4/issues/14)
    - [Add Jawaria](https://github.com/solarZoey/CYBR_404_Project1_Team4/issues/1)
    - [Add All Members](https://github.com/solarZoey/CYBR_404_Project1_Team4/issues/3)
+
 
 **3. Requirements**
