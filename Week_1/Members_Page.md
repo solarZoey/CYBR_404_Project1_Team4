@@ -6,8 +6,8 @@ Team Lead
 
 ## Jawaria Warsame
 Code Lead
-<br>Github Username: aricybr
-<br>Expectations:
+<br>Github Username: [aricybr](https://github.com/aricybr)
+<br>Expectations:As code lead, i will ensure the code follows the design, meets standards and stays on track.
 
 ## Nick Clark
 Documentarian
