@@ -1,24 +1,20 @@
 # Memebers
 ## Nova Solarz
 Team Lead
-
-Github Username: [solarZoey](https://github.com/solarZoey)
-<br>Expectations:
+<br>Github Username: [solarZoey](https://github.com/solarZoey)
+<br>Expectations: to unify team vision and keep us focused on the task at hand.
 
 ## Jawaria Warsame
 Code Lead
-
-Github Username: aricybr
-Expectations:
+<br>Github Username: aricybr
+<br>Expectations:
 
 ## Nick Clark
 Documentarian
-
-Github Username: Numpy11
-Expectations:
+<br>Github Username: Numpy11
+<br>Expectations:
 
 ## Lateefat Alimi
 Design Lead
-
-Github Username: Otherwise221
-Expectations: 
+<br>Github Username: Otherwise221
+<br>Expectations: 
