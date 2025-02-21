@@ -7,14 +7,14 @@ Github Username: [solarZoey](https://github.com/solarZoey)
 ## Jawaria Warsame
 Code Lead
 
-Github Username:
+Github Username: aricybr
 
-## Nick [LASTNAME]
+## Nick Clark
 Documentarian
 
-Github Username:
+Github Username: Numpy11
 
-## Lateefat [LASTNAME]
+## Lateefat Alimi
 Design Lead
 
-Github Username:
+Github Username: Otherwise221
