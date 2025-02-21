@@ -2,7 +2,8 @@
 
 ## Index
 
-[Members Page](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Week_1/Members_Page.md)
+[Members Page](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Week_1/Members_Page.md)<br>
+[License](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/README.md)
 
 **1. Planning**
 
