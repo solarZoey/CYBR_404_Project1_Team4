@@ -11,7 +11,6 @@
 **Code Lead** : Creates the technical artifacts, the code etc..
 <br>**Github Username:** aricybr
 <br>**Expectations:** Creates the applications and prototypes the team will analyze and assess. Analyzes the system for realism. Responsible for ensuring that the risk analysis, threat analysis and all security factors are met for the project.
-<br>https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Jawaria_Selfie.jpg
 <br>![lay_pic](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Warsame-Jawaria.jpg)
 
 ## Nick Clark
