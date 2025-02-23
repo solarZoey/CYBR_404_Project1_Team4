@@ -11,7 +11,7 @@
 **Code Lead** : Creates the technical artifacts, the code etc..
 <br>**Github Username:** aricybr
 <br>**Expectations:** Creates the applications and prototypes the team will analyze and assess. Analyzes the system for realism. Responsible for ensuring that the risk analysis, threat analysis and all security factors are met for the project.
-<br><img src="https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Jawaria_Selfie.jpg?raw=true" alt="Jawaria image" width="200">
+<br><img src="https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Jawaria_Selfie.jpg?raw=true" alt="Jawaria image" width="200"/>
 
 ## Nick Clark
 **Documentarian**: Collects and organizes documentation for the team, ensuring that all requirements are met.
@@ -23,4 +23,4 @@
 **Design Lead** : Works on the design and flow of system components
 <br>**Github Username:** Otherwise221
 <br>**Expectations:** Generates the data flow diagrams and documentation that shows the design of the system; decides what data will be used in the system, how it will be stored and why it will be used. Responsible for ensuring that the risk analysis, threat analysis and all security factors are met for the project.
-<br><img src="https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Lateefat_Selfie.jpg?raw=true" alt="Lateefat image" width="200>
+<br><img src="https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Lateefat_Selfie.jpg?raw=true" alt="Lateefat image" width="200"/>
