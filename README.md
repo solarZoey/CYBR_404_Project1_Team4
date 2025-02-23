@@ -11,7 +11,7 @@ Super Technologically Elevated Volatile Electrical Network
    
    - [Decide What We Will Make](Week_1/Problem_Statement.md) 
    - [Executive Summary](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/ExecutiveSummary.md)
-   - [Rough Problem Frames]()
+   - [Rough Problem Statement]()
    - [Define S.T.E.V.E.N in the calculator name - S.T.E.V.E.N - Error 404 - The Calculator](https://github.com/solarZoey/CYBR_404_Project1_Team4/issues/14)
    - [Add Jawaria](https://github.com/solarZoey/CYBR_404_Project1_Team4/issues/1)
    - [Add All Members](https://github.com/solarZoey/CYBR_404_Project1_Team4/issues/3)
