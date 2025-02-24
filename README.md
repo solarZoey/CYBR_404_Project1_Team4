@@ -8,8 +8,8 @@ Super Technologically Elevated Volatile Electrical Network
 
 **1. Planning**
 <br>[Week 1 expectations](https://canvas.unk.edu/courses/51421/assignments/672342) via Canvas
-   
-   - [Decide What We Will Make](Week_1/Rough_Idea.md) 
+
+   - [Decide What We Will Make](Week_1/Rough_Idea.md)
    - [Executive Summary](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/ExecutiveSummary.md)
    - [Rough Problem Statement](Week_1/Problem_Statement.md)
    - [Statement of Work](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Statement%20of%20Work.md)
