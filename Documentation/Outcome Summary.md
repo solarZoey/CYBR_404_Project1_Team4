@@ -10,9 +10,11 @@ What will the final product be?
 ## What will it look like?
 
 -A clean, simple design with:
--A display screen for numbers and results.
--Buttons for numbers, operations (+, -, ×, ÷), and clearing the screen.
--A small section below the display showing the history of calculations.
+-Perform basic arithmetic (+, -, *, /) plus some advanced functions.​
+-Work offline (no internet needed).​
+-Save calculation history temporarily.
+-Lightweight and fast.​
+-Compatible with major operating systems (Windows, macOS, Linux).​
 
 ## Why is this useful?
 
