@@ -1,1 +1,2 @@
-
+**What do the users require for the system to work? How will they access the system?**
+- Users need a device (like a computer, phone, or tablet), a modern web browser (such as Chrome, Firefox, or Safari), and an internet connection to access the calculator. The system is web-based, so no downloads, installations, or logins are required. The calculator will work as long as the browser supports basic HTML, CSS, and JavaScript. Additionally, users should understand basic calculator functions (e.g., addition, subtraction) to interact with the system effectively.
