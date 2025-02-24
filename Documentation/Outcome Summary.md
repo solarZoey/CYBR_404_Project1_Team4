@@ -1,12 +1,11 @@
 ##Outcome Summary##
 
 What will the final product be?
--The final product will be a web-based calculator that:
+-The final product will be offline calculator that:
 -Does Basic Math: Add, subtract, multiply, and divide.
--Keeps a Log: Shows a list of past calculations while the page is open.
--Resets on Reload: Clears the log when the page is closed or refreshed.
--Works Everywhere: Looks good and works well on phones, tablets, and computers.
--Safe to Use: Blocks bad inputs (like random text or code) to keep the calculator secure.
+-Built using Java for cross-platform compatibility.​
+-Works without internet.​
+-Simple and user-friendly interface.​
 
 What will it look like?
 
