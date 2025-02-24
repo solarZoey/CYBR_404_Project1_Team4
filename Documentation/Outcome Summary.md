@@ -1,4 +1,4 @@
-##Outcome Summary##
+# Outcome Summary
 
 What will the final product be?
 -The final product will be offline calculator that:
@@ -7,14 +7,14 @@ What will the final product be?
 -Works without internet.​
 -Simple and user-friendly interface.​
 
-What will it look like?
+## What will it look like?
 
 -A clean, simple design with:
 -A display screen for numbers and results.
 -Buttons for numbers, operations (+, -, ×, ÷), and clearing the screen.
 -A small section below the display showing the history of calculations.
 
-Why is this useful?
+## Why is this useful?
 
 For Users:
 -Quick access to a calculator without downloading anything.
