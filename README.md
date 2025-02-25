@@ -22,6 +22,6 @@ Super Technologically Elevated Volatile Electrical Network
    - [User Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/User%20Requirements.md)
    - [Software Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Software%20Requirements.md)
    - [Hardware Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Hardware%20Requirements.md)
-   - [Security Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Security%20Statement.md)
+   - [Security Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Security%20Requirements.md)
 
 **3. Design**
