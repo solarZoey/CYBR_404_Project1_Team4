@@ -1,5 +1,9 @@
 # Rough Idea
-We are creating a web-based calculator.<br>
-This calculator will have volitile memory, 
-meaning that it will keep a log of your past calculations that persists while the page is open, 
-but is deleted once the page is closed or reloaded.
+Project Name: Offline Calculator
+<br> Purpose: A lightweight, offline calculator for basic arithmetic operations.
+
+Key Features:
+* Built using Java for cross-platform compatibility.
+* Works without internet.
+* Simple and user-friendly interface.
+ 
