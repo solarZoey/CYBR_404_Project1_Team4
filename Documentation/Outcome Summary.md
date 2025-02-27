@@ -1,7 +1,7 @@
 # Outcome Summary
 
 ## What will the final product be?
--The final product will be offline calculator that:
+- The final product will be offline calculator that:
 - Does Basic Math: Add, subtract, multiply, and divide.
 - Built using Java for cross-platform compatibility.​
 - Works without internet.​
