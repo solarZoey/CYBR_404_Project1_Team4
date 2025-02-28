@@ -18,35 +18,48 @@ ___________.__             _________        .__               .__          __
   |    |   |   Y  \  ___/  \     \____/ __ \|  |_\  \___|  |  /  |__/ __ \|  | (  <_> )  | \/
   |____|   |___|  /\___  >  \______  (____  /____/\___  >____/|____(____  /__|  \____/|__|   
                 \/     \/          \/     \/          \/                \/                   
-
   </pre>
-## Index
 
-⚠️ 🛠️ 🛠️ 🛠️ ⚠️
+A lightweight, offline calculator for basic arithmetic operations.
 
-All of these links are currently broken due to file reorganization. Work in progress.
+Key Features:
+- Built using Java for cross-platform compatibility.
+- Works without internet.
+- Simple and user-friendly interface.
+ 
+---
 
-⚠️ 🛠️ 🛠️ 🛠️ ⚠️
+## 🗂️ Index
+[Members Page](Members_Page.md)
+[License](LICENSE)
 
-[Members Page](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Week_1/Members_Page.md)<br>
-[License](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/README.md)
+### 🤔 Planning
+- [Executive Summary](Documentation/Week_1/ExecutiveSummary.md)
+- [Problem Statement](Documentation/Week_1/Problem_Statement.md)
+- [Statement of Work](Documentation/Week_1/Statement%20of%20Work.md)
+- [Timeline](Documentation/Week_1/Timeline)
+- [Outcome Summary](Documentation/Week_1/Outcome%20Summary.md)
+- [Security Statement](Documentation/Week_1/Security%20Statement.md)
+- [Standards and Practices Statement](Documentation/Week_1/Standards%20and%20Practices%20Statement.md)
 
-**1. Planning**
-<br>[Week 1 expectations](https://canvas.unk.edu/courses/51421/assignments/672342) via Canvas
-   
-   - [Rough Idea](Week_1/Rough_Idea.md) 
-   - [Executive Summary](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Executive%20Summary.pdf)
-   - [Rough Problem Statement](Week_1/Problem_Statement.md)
-   - [Statement of Work](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Statement%20of%20Work%20S.pdf)
-   - [Timeline](Documentation/Timeline)
-   - [Outcome Summary](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Outcome%20Summary.md)
-   - [Security Statement](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Security%20Statement.md)
-   - [Standards and Practices Statement](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Standards%20and%20Practices%20Statement.md)
+### 📐 Requirements
+- [User Requirements](Documentation/Week_1/User%20Requirements.md)
+- [Software Requirements](Documentation/Week_1/Software%20Requirements.md)
+- [Hardware Requirements](Documentation/Week_1/Hardware%20Requirements.md)
+- [Security Requirements](Documentation/Week_1/Security%20Requirements.md)
 
-**2. Requirements**
-   - [User Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/User%20Requirements.md)
-   - [Software Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Software%20Requirements.md)
-   - [Hardware Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Hardware%20Requirements.md)
-   - [Security Requirements](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Security%20Requirements.md)
+### 🖌️ Design
+{TODO}
+### 🖥️ Development
+{TODO}
+### 🩺 Testing
+{TODO}
+### 🔧 Maintainence
+{TODO}
 
-**3. Design**
+---
+
+## 📑 Weekly Expectations via Canvas
+[Week 1 expectations](https://canvas.unk.edu/courses/51421/assignments/672342)
+[Week 2 expectations](https://canvas.unk.edu/courses/51421/assignments/672343?module_item_id=1540292)
+[Week 3 expectations](https://canvas.unk.edu/courses/51421/assignments/672344?module_item_id=1540293)
