@@ -1,4 +1,4 @@
-# Security Statement**
+# Security Statement
 
 ## What’s Our Goal for Security?
 
@@ -8,23 +8,23 @@
 
 - We’re making sure the calculator only accepts valid numbers and operations. If someone tries to do something weird, like dividing by zero or typing random letters, the calculator will handle it smoothly and show a clear error message. No crashes, no weird behavior just a clean and simple experience.
   
-## Your Data Stays Yours:*
+## Your Data Stays Yours:
 
 - Since this is an offline calculator, nothing you type or calculate will ever leave your device. No internet connection means no risk of your data being stolen or hacked. Plus, the temporary calculation history will be cleared after use, so there’s no chance of someone else seeing your past calculations.
 
-## Works Everywhere, Stays Secure:*
+## Works Everywhere, Stays Secure:
 
 - We’re building the calculator using Java, which will work on Windows, macOS, and Linux. But just because it works everywhere doesn’t mean we’re cutting corners on security. We’re making sure the same security measures are in place no matter what device you’re using.
 
-## Lightweight and Fast:*
+## Lightweight and Fast:
 
 - The calculator will be lightweight, so it won’t slow down your device or use too much memory. This also means fewer chances for things to go wrong, like crashes or weird bugs.
 
-## Easy to Use, Hard to Break:*
+## Easy to Use, Hard to Break:
 
 - We don’t want security to make things complicated. We’re designing the calculator so that it’s simple for users but tough for anything that might try to break it. For example, if you type something wrong, you’ll get a friendly error message, not a confusing crash.
 
-## How Are We Making It Secure?*
+## How Are We Making It Secure?
 
 - We’re building security into every project step, from the design to the final product. Here’s our plan:
 
@@ -34,22 +34,22 @@
 
 We’re also using UML diagrams (like Class Diagrams) to design the system in a way that keeps the code organized and secure.
 
-## Building the Calculator:*
+## Building the Calculator:
 
 - When we write the code, we’re adding checks to make sure only valid inputs are accepted. For example, if someone tries to divide by zero, the calculator will show an error instead of breaking.
 
 - We’re also making sure the temporary calculation history is stored safely and cleared after use. No sensitive data will stick around.
 
-## Testing Phase:*
+## Testing Phase:
 
 - Before we release the calculator, we’re testing it thoroughly. We’re trying to break it with weird inputs and edge cases to make sure it can handle anything a user might throw at it.
 We’re also writing unit tests to check that all the arithmetic operations (addition, subtraction, etc.) work correctly and securely.
 
-## After Launch:*
+## After Launch:
 
 - Once the calculator is out there, we’ll keep an eye on it. If users report any issues or if we find any security gaps, we’ll fix them quickly. We’ll also listen to user feedback to make the calculator even better over time.
 
-## How Does This Fit with the Problem Statement and Outcome Summary?*
+## How Does This Fit with the Problem Statement and Outcome Summary?
 
 - The Problem Statement says that many calculators are either too complicated, not secure or don’t work well on all devices. Our Offline 
 Calculator solves these problems by being:
