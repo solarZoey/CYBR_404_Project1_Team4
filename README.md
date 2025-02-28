@@ -49,7 +49,14 @@ Key Features:
 - [Security Requirements](Documentation/Week_1/Security%20Requirements.md)
 
 ### 🖌️ Design
-{TODO}
+- [Executive Design Document](Documentation/Week_2/Executive_Design_Document.md)
+- [Security Design Document](Documentation/Week_2/Security_Design_Document.md)
+  
+Diagrams:
+- [Level 0 DFD](Images/CYBR%20404%20DESIGN%20DFD%20LEVEL%200.jpg)
+- [Level 1 DFD](Images/CYBR%20404%20DESIGN%20DFD%20LEVEL%201.jpg)
+- UML - work in progress!
+
 ### 🖥️ Development
 {TODO}
 ### 🩺 Testing
