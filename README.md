@@ -30,7 +30,7 @@ Key Features:
 ---
 
 ## 🗂️ Index
-[Members Page](Members_Page.md)
+[Members Page](Members_Page.md)<br>
 [License](LICENSE)
 
 ### 🤔 Planning
@@ -60,6 +60,6 @@ Key Features:
 ---
 
 ## 📑 Weekly Expectations via Canvas
-[Week 1 expectations](https://canvas.unk.edu/courses/51421/assignments/672342)
-[Week 2 expectations](https://canvas.unk.edu/courses/51421/assignments/672343?module_item_id=1540292)
+[Week 1 expectations](https://canvas.unk.edu/courses/51421/assignments/672342)<br>
+[Week 2 expectations](https://canvas.unk.edu/courses/51421/assignments/672343?module_item_id=1540292)<br>
 [Week 3 expectations](https://canvas.unk.edu/courses/51421/assignments/672344?module_item_id=1540293)
