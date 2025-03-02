@@ -37,9 +37,17 @@
 ### Calculation Workflow
 ### History Interaction
 ### Error Resolution
+1. 
 ## Data Flows
 ### Calculation Flow
+1. User ----> User Interface ----> Calculation Input
+2. Calculation Input ----> Input Validation ----> Validated Input
+3. Validated Input ---> Calculation Process ---> Result
 ### History Data Flow
+1. User ----> User Interface ---> Request History
+2. Request History ----> History Storage ----> Saved history data
+3. Saved history data ----> User Interface ----> User
+
 ## Level 0 Data Flow Diagram
 ## Level 1 Data Flow Diagram
 ## UML Diagram
