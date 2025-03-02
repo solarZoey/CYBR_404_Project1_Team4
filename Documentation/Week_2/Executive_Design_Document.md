@@ -44,4 +44,5 @@
 ## Level 1 Data Flow Diagram
 ## UML Diagram
 ## Conclusion
+This document aims to give a comprehensive overview of the java calulator program that involves both absic and advanced operations. It's user friendly approach allows for people who are going to use the program in the future to be able to do simple math operations and manage the calculations they have done while interacting with that program.
 
