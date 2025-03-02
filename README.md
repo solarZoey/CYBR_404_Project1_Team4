@@ -53,16 +53,6 @@ Key Features:
 - [Security Design](Documentation/Week_2/Security_Design_Document.md)
 
 
-<figure>
-         <figcaption><strong>Level 0 Data Flow Diagram ↓</strong></figcaption>         
-         <img src="Images/CYBR 404 DESIGN DFD LEVEL 0.jpg" size="300" alt="L0 DFD">
-</figure>
-
-<figure>
-         <figcaption><strong>Level 1 Data Flow Diagram ↓</strong></figcaption>
-         <img src="Images/CYBR 404 DESIGN DFD LEVEL 1.jpg" size="300" alt="L1 DFD">
-</figure>
-
 ### 🖥️ Development
 {TODO}
 ### 🩺 Testing
