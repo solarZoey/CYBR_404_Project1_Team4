@@ -52,6 +52,7 @@ Key Features:
 - [Executive Design] (https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Week_2/Executive_Design_Document.md)
 
 <img src="Images/CYBR 404 DESIGN DFD LEVEL 0.jpg" size="300" alt="L0 DFD">
+<img src="Images/CYBR 404 DESIGN DFD LEVEL 1.jpg" size="300" alt="L1 DFD">
 
 ### 🖥️ Development
 {TODO}
