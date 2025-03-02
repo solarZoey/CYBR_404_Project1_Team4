@@ -35,9 +35,21 @@
 ### User Input Class
 ## INTERACTIONS / USER INTERACTIONS
 ### Calculation Workflow
+1. The sees the calculator welcome message and what they need to enter for each operator they intend to use
+2. User inputs into the console
+3. The system valdiates the input and ensures that the user entered the right thing
+4. If the input is wrong the user is told and asked to try again
+5. If the input is correct, the ystsem performs the calculation
+6. Results are displayed
+7. The calculation is stored in the history
 ### History Interaction
+1. User requests for the history
+2. The program gets the history and displays it
+3. User can look through their history for reference
 ### Error Resolution
-1. 
+1. If an error occurs, the program displays a error message
+2. The user corrects their msitake based on the message
+3. The user resubmits the correct input for calculation
 ## Data Flows
 ### Calculation Flow
 1. User ----> User Interface ----> Calculation Input
@@ -47,6 +59,10 @@
 1. User ----> User Interface ---> Request History
 2. Request History ----> History Storage ----> Saved history data
 3. Saved history data ----> User Interface ----> User
+### Error Handling Flow
+1. Input ---> Validation ----> Error detected
+2. Error detected ----> Error message
+3. Error Message ---> Displays On The User Interface ----> User
 
 ## Level 0 Data Flow Diagram
 ## Level 1 Data Flow Diagram
