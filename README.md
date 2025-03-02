@@ -49,7 +49,8 @@ Key Features:
 - [Security Requirements](Documentation/Week_1/Security%20Requirements.md)
 
 ### 🖌️ Design
-- [Executive Design](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Week_2/Executive_Design_Document.md)
+- [Executive Design](Documentation/Week_2/Executive_Design_Document.md)<br>
+- [Security Design](Documentation/Week_2/Security_Design_Document.md)
 
 
 <figure>
