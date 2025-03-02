@@ -51,7 +51,9 @@ Key Features:
 ### 🖌️ Design
 - [Executive Design](Documentation/Week_2/Executive_Design_Document.md)<br>
 - [Security Design](Documentation/Week_2/Security_Design_Document.md)
-
+- [Level 0 Data Flow Diagram](Images/CYBR%20404%20DESIGN%20DFD%20LEVEL%200.jpg)
+- [Level 1 Data Flow Diagram](Images/CYBR%20404%20DESIGN%20DFD%20LEVEL%201.jpg)
+- [UML Diagram](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Images/CYBR%20404%20DESIGN%20UML%20Diagram.jpg)
 
 ### 🖥️ Development
 {TODO}
