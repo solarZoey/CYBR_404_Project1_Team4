@@ -29,10 +29,23 @@
 - Outputs the appropriate error messages
 ## Classes and Objects
 ### Calculator Class
+- Is the main class
+- Manages the flow of the program
+- Displays the welcome and closing messages
+- Methods include: 
 ### Basic Operations Class
+- The Abstract class for all the basic mathematical operations
+- Methods include:
 ### Advanced Operations Class
+- The Abstract class for all the advanced mathematical operations
+- Methods include:
 ### History Class
+- Manages the calculation history
+- Methods include:
 ### User Input Class
+- Where the error handling occurs
+- Where the display and user interactions are managed
+- Methods include:
 ## INTERACTIONS / USER INTERACTIONS
 ### Calculation Workflow
 1. The sees the calculator welcome message and what they need to enter for each operator they intend to use
