@@ -32,20 +32,20 @@
 - Is the main class
 - Manages the flow of the program
 - Displays the welcome and closing messages
-- Methods include: 
+- **Methods include:** welcome_message(), user_input(), closing_message()
 ### Basic Operations Class
 - The Abstract class for all the basic mathematical operations
-- Methods include:
+- **Methods include:** Addition(), Subtraction(), Multiplication(), Division()
 ### Advanced Operations Class
 - The Abstract class for all the advanced mathematical operations
-- Methods include:
+- **Methods include:** square_root(), log(), sin(), cos() tan()
 ### History Class
 - Manages the calculation history
-- Methods include:
+- **Methods include:** Display_history(), Clear_history()
 ### User Input Class
 - Where the error handling occurs
 - Where the display and user interactions are managed
-- Methods include:
+- **Methods include:** get_input(), validate_input(), manage_input()
 ## INTERACTIONS / USER INTERACTIONS
 ### Calculation Workflow
 1. The sees the calculator welcome message and what they need to enter for each operator they intend to use
