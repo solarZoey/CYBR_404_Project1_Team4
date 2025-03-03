@@ -76,7 +76,6 @@ Team Super Nova will be using Java as the primary coding language for this proje
 | Limited Knowledge | High | Assign tasks based on Team Super Nova’s strengths and encourage team meetings and discussions to solve issues with knowledge gaps as they arise (communicate openly in real time) |
 | Deployment Issues | Low | Make sure final testing is done in the environment calculator will run in before deployment |
 
-[TABLE_PLACEHOLDER]
 
 ## 5. Next Steps & Action Items
 
