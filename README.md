@@ -20,14 +20,8 @@ ___________.__             _________        .__               .__          __
                 \/     \/          \/     \/          \/                \/                   
   </pre>
 
-A lightweight, offline calculator for basic arithmetic operations.
-
-Key Features:
-- Built using Java for cross-platform compatibility.
-- Works without internet.
-- Simple and user-friendly interface.
- 
----
+  
+Weeeeee!!!! a change that github won't like!
 
 ## 🗂️ Index
 [Members Page](Members_Page.md)<br>
