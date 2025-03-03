@@ -60,8 +60,8 @@ Key Features:
 - [Code Progress Log](Documentation/Week_3/Code_Progress_Log.md)
 - [Code and Security Testing Overview](Documentation/Week_3/Code_and_Security_Testing_Overview.md)
 - [Code and Security Testing Results](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Week_3/Code_and_Security_Testing_Results.md)
-- [Maintenance Timeline](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Week_3/Maintenence_Timeline.md)
-- [Maintenance Overview](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Week_3/Maintenence_Overview.md)
+- [Maintenance Timeline](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Week_3/Maintenance_Timeline.md)
+- [Maintenance Overview](https://github.com/solarZoey/CYBR_404_Project1_Team4/blob/main/Documentation/Week_3/Maintenance_Overview.md)
 
 ### 🩺 Testing
 {TODO}
