@@ -1,21 +1,23 @@
 # Standards And Practices
 
 ## Index
-- [Preface](#preface)
-- [Language](#language)
-- [Order of Source File Contents](#order-of-source-file-contents)
-- [Comments](#comments)
-  - [Header Comment](#header-comment)
-  - [Standard Comments](#standard-comments)
-- [Package and Import Statements](#package-and-import-statements)
-- [Class Definitions](#class-definitions)
-  - [Data Attributes](#data-attributes)
-    - [Constants](#constants)
-  - [Class Methods and Brackets](#class-methods-and-brackets)
 
+- Preface
+- Language
+- Order of Source File Contents
+- Comments
+  - Header Comment
+  - Standard Comments
+- Package and Import Statements
+- Class Definitions
+  - Data Attributes
+    - Constants
+  - Class Methods and Brackets
+
+---
 
 ## Preface
-These standards and practices will be largely sourced and modified from ["Java Code Conventions" by Oracle](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf).
+These standards and practices will be largely sourced and modified from "Java Code Conventions" by Oracle (https://www.oracle.com/technetwork/java/codeconventions-150003.pdf).
 
 ---
 
@@ -25,6 +27,7 @@ We will be using the Java programming language for our application.
 ---
 
 ## Order of Source File Contents
+
 1. Header comment
 2. Package and import statements
 3. Class definitions
@@ -35,6 +38,7 @@ We will be using the Java programming language for our application.
 
 ### Header Comment
 All source files should begin with a c-style comment that:
+
 - lists the programmer(s), <br>
 - the date of creation, <br>
 - and also a brief description of the purpose of the program. 
@@ -73,12 +77,13 @@ import java.applet.Applet;import java.awt.*;import java.net.*;
 
 ## Class Definitions
 Class definitions should follow this order:
+
 1. Class statement
 2. Class implementation comment (if the purpose of the class is not self-evident)
 3. Data attributes
-	1. public attributes
-	2. protected attributes
-	3. private attributes
+    1. public attributes
+    2. protected attributes
+    3. private attributes
 4. Constructors
 5. Helpers
 6. Getters
