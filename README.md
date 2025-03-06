@@ -24,8 +24,11 @@ A lightweight, offline calculator for basic arithmetic operations.
 
 Key Features:
 - Built using Java for cross-platform compatibility.
+- !! test1 change
 - Works without internet.
 - Simple and user-friendly interface.
+
+another change blah blah please break :3
  
 ---
 
