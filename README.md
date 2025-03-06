@@ -20,8 +20,23 @@ ___________.__             _________        .__               .__          __
                 \/     \/          \/     \/          \/                \/                   
   </pre>
 
+ test_2
   
 Weeeeee!!!! a change that github won't like!
+
+A lightweight, offline calculator for basic arithmetic operations.
+
+Key Features:
+- Built using Java for cross-platform compatibility.
+- !! test1 change
+- Works without internet.
+- Simple and user-friendly interface.
+
+another change blah blah please break :3
+ 
+---
+
+added this line in merge conflict resolution!
 
 ## 🗂️ Index
 [Members Page](Members_Page.md)<br>
