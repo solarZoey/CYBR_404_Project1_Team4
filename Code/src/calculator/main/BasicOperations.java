@@ -16,10 +16,10 @@ public class BasicOperations {
 
     public static double divide(double a, double b) {
         if (b == 0) {
-            return a > 0 ? Double.POSITIVE_INFINITY : a < 0 ? Double.NEGATIVE_INFINITY : Double.NaN;
-        }
-        return a / b;
+            throw new ArithmeticException("Division by zero is undefined");
     }
+    return a / b;
+}
 
     public static double squareRoot(double a) {
         if (a < 0) {
