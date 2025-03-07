@@ -1,8 +1,8 @@
 # Introduction
 - This plan ensures the Calculator app is secure, accurate, and user-friendly. It covers memory safety, input protection, math accuracy, and ease of use.
 
-# Security Testing
-## 1. Memory Safety
+# 1. Security Testing
+##  Memory Safety
 Why?
 
 - Prevent sensitive data from being accessed after the program closes.
